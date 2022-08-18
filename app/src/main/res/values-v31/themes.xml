@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FebruaryclFirstApp.Splash">
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_img</item>
+        <item name="android:windowSplashScreenAnimationDuration">10000</item>
+    </style>
+</resources>
