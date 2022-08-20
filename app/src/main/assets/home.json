@@ -1,0 +1,36 @@
+{
+  "title": {
+    "text": "Have a good time :)",
+    "icon_url": "https://user-images.githubusercontent.com/103496651/185755672-a70e519e-e5e6-409a-ba66-22065d8feaf3.png"
+  },
+  "top_banners" : [
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/103496651/185756474-8609fe87-3b35-4a35-aeb8-7276a556b91d.gif",
+      "product_detail" : {
+        "brand_name" : "아이유(IU)",
+        "label" : "조각집",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/103496651/185756710-2d6976a5-428b-4642-9024-67080d475ea0.png",
+        "product_id": "FW-twg-sweater-1"
+      }
+    },
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/103496651/185756338-f1239dc6-1717-4ec7-b8bc-2f6dc6558a75.jpg",
+      "product_detail" : {
+        "brand_name" : "아이유",
+        "label" : "스트로 베리",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/103496651/185756713-a4aa9c65-954b-42d3-82fc-c5e3f9af459e.png",
+        "product_id": "desk-1"
+      }
+    },
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/103496651/185756474-8609fe87-3b35-4a35-aeb8-7276a556b91d.gif",
+      "product_detail" : {
+        "brand_name" : "아이유(IU)",
+        "label" : "조각집",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/103496651/185756710-2d6976a5-428b-4642-9024-67080d475ea0.png",
+        "product_id": "FW-twg-sweater-1"
+      }
+    }
+
+  ]
+}
